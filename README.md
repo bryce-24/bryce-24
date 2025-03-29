@@ -24,4 +24,4 @@ I'm passionate about using my skills in software engineering to make new and inn
  - Movies!
 
 📫 **Let's Connect!**  
-Feel free to reach out via [email](mailto:brycenormile@gmail.com) or check out my [GitHub projects](https://github.com/bryce-24).
+Feel free to reach out via [email](mailto:brycenormile@gmail.com)
