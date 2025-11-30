@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bryce!
 
 🎓 **Computer Science Student at the University of Idaho**  
-I'm currently pursuing a Bachelor of Science in Computer Science, where I'm honing my skills in software development, AI, and web technologies. I'm committed to academic excellence and continuous learning.
+I'm currently pursuing a Bachelor of Science in Computer Science, where I'm honing my skills in software development, AI, and web technologies.
 
 
 🔨 **Skills**  
