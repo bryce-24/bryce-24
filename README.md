@@ -3,8 +3,6 @@
 🎓 **Computer Science Student at the University of Idaho**  
 I'm currently pursuing a Bachelor of Science in Computer Science, where I'm honing my skills in software development, AI, and web technologies. I'm committed to academic excellence and continuous learning.
 
-🚀 **Career Goals**  
-I'm passionate about using my skills in software engineering to make new and innovative projects for people to enjoy!
 
 🔨 **Skills**  
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
